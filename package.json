@@ -1,0 +1,15 @@
+{
+  "name": "retypedocs",
+  "version": "1.0.0",
+  "description": "docs",
+  "main": "index.js",
+  "dependencies": {
+    "retypeapp": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
